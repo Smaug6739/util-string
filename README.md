@@ -4,7 +4,7 @@ This module regroup useful functions for string.
 
 ## Instalation
 
-* Install the module : `npm install --save util-string`
+* Install the module : `npm install --save util-str`
 
 ## Usage
 
@@ -12,11 +12,11 @@ This module is very easy to use, you just need import it.
 
 ### Import
 
-* `import 'util-string';`
+* `import 'util-str';`
 
 ### Require
 
-* `require('util-string')`
+* `require('util-str')`
 
 Once imported, the functions are automatically available on string.
 
@@ -76,7 +76,7 @@ Type : string;
 ## Example
 
 ```js
-require('util-string') // Import the module
+require('util-str') // Import the module
 
 console.log("Lorem@ipsum.com".isEmail());
 // true
