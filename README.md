@@ -1,4 +1,9 @@
-# Util string
+<div align="center">
+  <h1> Util string </h1>
+<img src="https://nodei.co/npm/util-str.png"> <br>
+  <a href="https://www.npmjs.com/package/util-str"> <img src="https://badge.fury.io/js/util-str.svg"> </a> 
+  <a href="https://github.com/SmaugDev/util-string/blob/master/LICENSE"> <img src="https://img.shields.io/github/license/SmaugDev/util-string.svg"> </a>
+</div>
 
 This module regroup useful functions for string.
 
